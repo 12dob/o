@@ -2,21 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://o.app1.gq</id>
     <title>?</title>
-    <updated>2021-12-08T04:01:59.445Z</updated>
+    <updated>2022-01-11T18:52:08.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://o.app1.gq"/>
     <link rel="self" href="https://o.app1.gq/atom.xml"/>
     <subtitle>温故而知新.学以致用</subtitle>
     <logo>https://o.app1.gq/images/avatar.png</logo>
     <icon>https://o.app1.gq/favicon.ico</icon>
-    <rights>All rights reserved 2021, ?</rights>
+    <rights>All rights reserved 2022, ?</rights>
     <entry>
-        <title type="html"><![CDATA[2222222]]></title>
+        <title type="html"><![CDATA[2022022022·三学三能三思]]></title>
         <id>https://o.app1.gq/post/2222222/</id>
         <link href="https://o.app1.gq/post/2222222/">
         </link>
         <updated>2021-12-07T07:54:36.000Z</updated>
-        <content type="html"><![CDATA[<p>222222222222222</p>
+        <content type="html"><![CDATA[<p>#三个不大的目标<br>
+<em><strong>学会规划时间</strong></em><br>
+<em><strong>合理的使用钱</strong></em><br>
+<em><strong>不断改正缺点</strong></em><br>
+#三个不小的任务</p>
 ]]></content>
     </entry>
     <entry>
